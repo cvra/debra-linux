@@ -1,6 +1,7 @@
 base:
     '*':
         - core
-        ⁻ system
+        - system
         - vm.docker
+        - git
         - users
